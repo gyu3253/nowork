@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gyu3253/nowork.git/static/css/main.073c9b0a.css",
-    "main.js": "/gyu3253/nowork.git/static/js/main.b0fd2afd.js",
-    "static/js/787.4c737f1d.chunk.js": "/gyu3253/nowork.git/static/js/787.4c737f1d.chunk.js",
-    "static/media/logo.svg": "/gyu3253/nowork.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/gyu3253/nowork.git/index.html",
-    "main.073c9b0a.css.map": "/gyu3253/nowork.git/static/css/main.073c9b0a.css.map",
-    "main.b0fd2afd.js.map": "/gyu3253/nowork.git/static/js/main.b0fd2afd.js.map",
-    "787.4c737f1d.chunk.js.map": "/gyu3253/nowork.git/static/js/787.4c737f1d.chunk.js.map"
+    "main.css": "/nowork/static/css/main.073c9b0a.css",
+    "main.js": "/nowork/static/js/main.57a5c226.js",
+    "static/js/787.4c737f1d.chunk.js": "/nowork/static/js/787.4c737f1d.chunk.js",
+    "static/media/logo.svg": "/nowork/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nowork/index.html",
+    "main.073c9b0a.css.map": "/nowork/static/css/main.073c9b0a.css.map",
+    "main.57a5c226.js.map": "/nowork/static/js/main.57a5c226.js.map",
+    "787.4c737f1d.chunk.js.map": "/nowork/static/js/787.4c737f1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b0fd2afd.js"
+    "static/js/main.57a5c226.js"
   ]
 }
